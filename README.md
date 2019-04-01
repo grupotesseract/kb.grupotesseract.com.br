@@ -18,7 +18,7 @@ Acesse [http://localhost:8080/vuepress-tesseract/]
 
 ```mkdir docs/nome-do-tutorial```
 
-2. Escreva o texto em markdown, salve o arquivo com o nome README.md
+2. Escreva o texto em **markdown**, salve o arquivo com o nome **README.md**
 
 ```echo '# Nome do Tutorial' > docs/nome-do-tutorial/README.md```
 
@@ -32,6 +32,6 @@ git push origin master
 
 O [Trevis CI](https://travis-ci.org/ 'Trevis CI Home Page') fara o deploy automático e a página ficara disponível no endereço [grupotesseract.github.io/vuepress-tesseract/nome-do-tutorial](https://grupotesseract.github.io/vuepress-tesseract/ 'Open KB Grupo Tesseract Home Page') dentro de alguns minutos.
 
-# Requerir uma Revisão
+## Requerir uma Revisão
 
 Se o tutorial necessita de uma revisão, abra uma **pull request** no GitHub.
