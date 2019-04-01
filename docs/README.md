@@ -2,7 +2,7 @@
 home: true
 # heroImage: /hero.png
 actionText: Entrar →
-actionLink: /intro/
+actionLink: /intro2/
 # features:
 # - title: Simplicity First
 #   details: Minimal setup with markdown-centered project structure helps you focus on writing.
