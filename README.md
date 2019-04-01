@@ -30,7 +30,7 @@ git commit -m 'Nome do Tutorial'
 git push origin master
 ```
 
-O [Trevis CI](https://travis-ci.org/ 'Trevis CI Home Page') fara o deploy automático e a página ficara disponível no endereço [grupotesseract.github.io/vuepress-tesseract/nome-do-tutorial](https://grupotesseract.github.io/vuepress-tesseract/ 'Open KB Grupo Tesseract Home Page') dentro de alguns minutos.
+O [Trevis CI](https://travis-ci.org/ 'Trevis CI Home Page') fara o deploy automático e a página ficara disponível no endereço [grupotesseract.github.io/vuepress-tesseract/nome-do-tutorial](https://grupotesseract.github.io/vuepress-tesseract/nome-do-tutorial 'Open KB Grupo Tesseract Home Page') dentro de alguns minutos.
 
 ## Requerir uma Revisão
 
