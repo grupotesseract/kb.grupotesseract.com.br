@@ -1,5 +1,6 @@
 ---
-home: true
+layout: HomeLayout
+# home: true
 # heroImage: /hero.png
 # actionText: Começar →
 # actionLink: /intro2/
