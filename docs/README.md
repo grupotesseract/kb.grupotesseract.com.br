@@ -1,7 +1,7 @@
 ---
 layout: HomeLayout
-# home: true
-# heroImage: /hero.png
+home: true
+heroImage: /hero.png
 # actionText: Começar →
 # actionLink: /intro2/
 # features:

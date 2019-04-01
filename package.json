@@ -8,6 +8,10 @@
   },
   "resolutions": {
     "webpack-dev-middleware": "3.6.0"
+  },
+  "dependencies": {
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "vuetify": "^1.5.8"
   }
 }
-
