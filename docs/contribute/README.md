@@ -4,7 +4,7 @@ Este Knowledge Base é hospedado pelo [GitHub Pages](https://pages.github.com/ '
 
 ## Instalação Local
 
-```
+```bash
 git clone https://github.com/grupotesseract/vuepress-tesseract.git
 cd vuepress-tesseract
 
@@ -19,15 +19,19 @@ Acesse [localhost:8080/vuepress-tesseract/](http://localhost:8080/vuepress-tesse
 
 1. Crie uma pasta com o nome do seu tutorial, sem caracteres especiais e com hífen no lugar do espaço.
 
-```mkdir docs/nome-do-tutorial```
+```bash
+mkdir docs/nome-do-tutorial
+```
 
 2. Escreva o texto em **markdown**, salve o arquivo com o nome **README.md**
 
-```echo '# Nome do Tutorial' > docs/nome-do-tutorial/README.md```
+```bash
+echo '# Nome do Tutorial' > docs/nome-do-tutorial/README.md
+```
 
 3. Faça um commit na master.
 
-```
+```bash
 git add .
 git commit -m 'Nome do Tutorial'
 git push origin master
