@@ -13,7 +13,7 @@ yarn install
 yarn docs:dev
 ```
 
-Acesse [http://localhost:8080/vuepress-tesseract/]
+Acesse [localhost:8080/vuepress-tesseract/](http://localhost:8080/vuepress-tesseract/)
 
 ## Como criar um tutorial
 
