@@ -12,6 +12,7 @@
   "dependencies": {
     "node-sass": "^4.11.0",
     "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
     "vuetify": "^1.5.8"
   }
 }
