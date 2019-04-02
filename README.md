@@ -5,6 +5,9 @@ Este Knowledge Base é hospedado pelo [GitHub Pages](https://pages.github.com/ '
 ## Instalação Local
 
 ```
+git clone https://github.com/grupotesseract/vuepress-tesseract.git
+cd vuepress-tesseract
+
 yarn install
 
 yarn docs:dev
