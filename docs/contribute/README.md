@@ -41,4 +41,4 @@ O [Trevis CI](https://travis-ci.org/ 'Trevis CI Home Page') fara o deploy autom�
 
 ## Requerir uma revisão
 
-Se o tutorial necessita de uma revisão, abra uma **pull request** no GitHub.
+Se o tutorial necessita de uma revisão, abra uma **pull request** no [GitHub](https://github.com/grupotesseract/vuepress-tesseract 'GitHub Home Page').
