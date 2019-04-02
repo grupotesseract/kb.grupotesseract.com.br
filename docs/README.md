@@ -1,6 +1,6 @@
 ---
-layout: HomeLayout
 home: true
+layout: HomeLayout
 # actionText: Começar →
 # actionLink: /intro2/
 features:

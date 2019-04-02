@@ -30,10 +30,10 @@
         	v-for="(feature, index) in data.features"
         	:key="index"
       	>
-      		<a :href="feature.url">
+					<router-link :to="feature.url">
         		<h2 :style="{ backgroundColor: '#' + feature.color }">{{ feature.title }} ➜</h2>
         		<p>{{ feature.details }}</p>
-        	</a>
+        	</router-link>
       	</div>
     	</div>
 		</div>
