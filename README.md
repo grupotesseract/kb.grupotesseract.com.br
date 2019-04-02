@@ -8,9 +8,9 @@ Este Knowledge Base é hospedado pelo [GitHub Pages](https://pages.github.com/ '
 git clone https://github.com/grupotesseract/vuepress-tesseract.git
 cd vuepress-tesseract
 
-yarn install
+npm install
 
-yarn docs:dev
+npm run docs:dev
 ```
 
 Acesse [localhost:8080/vuepress-tesseract/](http://localhost:8080/vuepress-tesseract/)
