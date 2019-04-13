@@ -9,6 +9,7 @@
   },
   "resolutions": {},
   "dependencies": {
+    "npm": "^6.9.0",
     "vuetify": "^1.5.8",
     "webpack-dev-middleware": "3.6.0"
   }
