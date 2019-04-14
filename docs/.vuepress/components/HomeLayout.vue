@@ -33,7 +33,6 @@
 					<router-link :to="feature.url">
         		<h2 :style="{ backgroundColor: '#' + fillWhitZero(feature.color) }">{{ feature.title }} ➜</h2>
         		<p>{{ feature.details }}</p>
-        		<p>{{ fillWhitZero(feature.color) }}</p>
         	</router-link>
       	</div>
     	</div>
