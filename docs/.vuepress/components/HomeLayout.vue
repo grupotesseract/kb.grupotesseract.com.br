@@ -31,8 +31,9 @@
         	:key="index"
       	>
 					<router-link :to="feature.url">
-        		<h2 :style="{ backgroundColor: '#' + feature.color }">{{ feature.title }} ➜</h2>
+        		<h2 :style="{ backgroundColor: '#' + fillWhitZero(feature.color) }">{{ feature.title }} ➜</h2>
         		<p>{{ feature.details }}</p>
+        		<p>{{ fillWhitZero(feature.color) }}</p>
         	</router-link>
       	</div>
     	</div>
@@ -91,7 +92,12 @@ export default {
   computed: {
     data () {
       return this.$page.frontmatter
-    }
-  }
+		}
+	},
+	methods: {
+		fillWhitZero: function (hexa) {
+			return hexa.toString().padStart(6, 0)
+		}
+	}
 }
 </script>

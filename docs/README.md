@@ -7,6 +7,6 @@ features:
 - title: Como Contribuir
   details: Aprenda como contribuir com uma documentação ou tutorial para o open KB do Grupo Tesseract, é mais fácil do que você pensa.
   url: /contribute/
-  color: 009688
+  color: 0
 # footer: MIT Licensed | Copyright © 2018-present Evan You
 ---
