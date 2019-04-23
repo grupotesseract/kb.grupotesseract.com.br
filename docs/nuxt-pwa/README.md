@@ -31,19 +31,7 @@ Selecione as seguintes opções de instalação no terminal:
 ? Project name <project-name>
 ? Project description <project-description>
 ? Use a custom server framework
-❯ Express
-? Choose features to install #Selecione Todos
- ◉ Progressive Web App (PWA) Support
- ◉ Linter / Formatter
- ◉ Prettier
-❯◉ Axios
-? Use a custom UI framework:
-❯ Vuetify
-? Use a custom test framework
-❯ Jest
-? Choose rendering mode
-❯ Universal
-? Author name <project-author>
+❯ Ex
 ? Choose a package manager
 ❯ Yarn
 ```

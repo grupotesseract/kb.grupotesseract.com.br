@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/vuepress-tesseract/',
+  base: '',
   title: 'Open KB Grupo Tesseract',
   description: 'Documentação e Tutoriais',
   themeConfig: {
