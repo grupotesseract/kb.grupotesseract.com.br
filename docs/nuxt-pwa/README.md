@@ -28,12 +28,16 @@ yarn create nuxt-app <project-name>
 Selecione as seguintes opções de instalação no terminal:
 
 ```bash
+> Generating Nuxt.js project
 ? Project name <project-name>
 ? Project description <project-description>
-? Use a custom server framework
-❯ Ex
-? Choose a package manager
-❯ Yarn
+? Use a custom server framework express
+? Choose features to install Progressive Web App (PWA) Support, Linter / Formatter, Prettier, Axios
+? Use a custom UI framework vuetify
+? Use a custom test framework jest
+? Choose rendering mode Universal
+? Author name <project-author>
+? Choose a package manager yarn
 ```
 
 Abra a pasta do projeto:
@@ -49,6 +53,7 @@ Agora é uma boa hora de salvar o projeto no **GitHub** ou **GitLab**:
 git add .
 git commit -m 'create nuxt-app'
 git remote add origin https://github.com/<project-github>/<project-name>.git
+git pull origin master --allow-unrelated-histories
 git push -u origin master
 ```
 
