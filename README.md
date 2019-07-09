@@ -13,7 +13,7 @@ npm install
 npm run docs:dev
 ```
 
-Acesse [localhost:8080/vuepress-tesseract/](http://localhost:8080/vuepress-tesseract/)
+Acesse [localhost:8080/](http://localhost:8080/)
 
 ## Como criar um tutorial
 
