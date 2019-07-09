@@ -49,6 +49,8 @@ $ yarn run generate
 
 ### VSCode Configuration
 
+Install [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) and [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) VSCode Extensions.
+
 Add the following configuration on your **settings.json** file.
 
 ```json
